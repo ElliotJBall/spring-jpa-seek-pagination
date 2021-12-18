@@ -19,7 +19,6 @@ import org.springframework.lang.Nullable;
 @NoRepositoryBean
 public interface SeekPaginationRepository<T, ID> extends Repository<T, ID> {
 
-
   /**
    * SEEK pagination allowing additional specifications/predicates and sorting to be applied.
    *
@@ -63,5 +62,4 @@ public interface SeekPaginationRepository<T, ID> extends Repository<T, ID> {
    * @return the result of the SEEK request
    */
   SeekResult<T> findAll(@NonNull SeekRequest seekRequest);
-
 }
