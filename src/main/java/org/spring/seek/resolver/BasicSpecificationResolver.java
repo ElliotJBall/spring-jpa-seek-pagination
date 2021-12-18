@@ -5,7 +5,8 @@ import org.spring.seek.domain.SeekRequest;
 import org.springframework.data.jpa.domain.Specification;
 
 /**
- * Change me.
+ * {@link PersistenceTypeResolver} implementation for resolving the  {@link
+ * javax.persistence.metamodel.Type.PersistenceType#BASIC} types to a Spring {@link Specification}.
  *
  * @author Elliot Ball
  */

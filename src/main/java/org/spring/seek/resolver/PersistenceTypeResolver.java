@@ -5,7 +5,9 @@ import org.spring.seek.domain.SeekRequest;
 import org.springframework.data.jpa.domain.Specification;
 
 /**
- * Change me.
+ * Marker interface for {@link javax.persistence.metamodel.Type.PersistenceType} to {@link
+ * Specification} resolvers. The provided 'seekFields' are the fields annotated {@link
+ * org.spring.seek.annotation.SeekPaginationField} on a given entity.
  *
  * @author Elliot Ball
  */

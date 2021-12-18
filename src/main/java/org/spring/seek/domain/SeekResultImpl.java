@@ -6,7 +6,7 @@ import org.springframework.lang.NonNull;
 import org.springframework.lang.Nullable;
 
 /**
- * Change me.
+ * {@link SeekRequest} default implementation.
  *
  * @author Elliot Ball
  */

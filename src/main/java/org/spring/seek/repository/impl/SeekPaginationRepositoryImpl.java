@@ -5,7 +5,6 @@ import java.text.MessageFormat;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Optional;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
 import javax.persistence.EntityManager;
@@ -31,7 +30,7 @@ import org.springframework.util.Assert;
 import static org.springframework.data.jpa.repository.query.QueryUtils.toOrders;
 
 /**
- * Change me.
+ * {@link SeekPaginationRepository} implementation class.
  *
  * @author Elliot Ball
  */

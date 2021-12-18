@@ -6,7 +6,9 @@ import org.springframework.lang.Nullable;
 import org.springframework.util.Assert;
 
 /**
- * Change me.
+ * A {@link SeekRequest} allows you to construct a new Seek request based on the last seen id, the
+ * sort direction to apply to the {@link org.spring.seek.annotation.SeekPaginationField} and a limit
+ * on the number of results.
  *
  * @author Elliot Ball
  */

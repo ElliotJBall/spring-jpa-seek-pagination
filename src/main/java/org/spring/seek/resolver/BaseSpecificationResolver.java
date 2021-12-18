@@ -9,7 +9,9 @@ import org.springframework.data.jpa.domain.Specification;
 import org.springframework.lang.NonNull;
 
 /**
- * Change me.
+ * Base specification resolver. Converts any fields annotated with {@link
+ * org.spring.seek.annotation.SeekPaginationField} into the Spring {@link Specification} to generate
+ * the SEEK query.
  *
  * @author Elliot Ball
  */
