@@ -3,22 +3,27 @@ package org.spring.seek.sample.domain;
 import java.math.BigDecimal;
 import java.util.Objects;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
 import org.spring.seek.annotation.SeekPaginationField;
 
-@Entity
+@Entity(name = "CUSTOMER")
 public class Customer {
 
   @Id
   @SeekPaginationField
+  @Column(name = "ID")
   private Long id;
 
+  @Column(name = "FIRST_NAME")
   private String firstName;
 
+  @Column(name = "LAST_NAME")
   private String lastName;
 
+  @Column(name = "SALARY")
   private BigDecimal salary;
 
   public Customer() {

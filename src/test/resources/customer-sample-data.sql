@@ -1,10 +1,10 @@
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	1,
@@ -15,11 +15,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	2,
@@ -30,11 +30,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	3,
@@ -45,11 +45,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	4,
@@ -60,11 +60,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	5,
@@ -75,11 +75,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	6,
@@ -90,11 +90,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	7,
@@ -105,11 +105,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	8,
@@ -120,11 +120,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	9,
@@ -135,11 +135,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	10,
@@ -150,11 +150,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	11,
@@ -165,11 +165,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	12,
@@ -180,11 +180,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	13,
@@ -195,11 +195,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	14,
@@ -210,11 +210,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	15,
@@ -225,11 +225,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	16,
@@ -240,11 +240,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	17,
@@ -255,11 +255,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	18,
@@ -270,11 +270,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	19,
@@ -285,11 +285,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	20,
@@ -300,11 +300,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	21,
@@ -315,11 +315,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	22,
@@ -330,26 +330,26 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	23,
-	'Saidee',
+	'SaIDee',
 	'Mc Coughan',
 	63869
 );
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	24,
@@ -360,11 +360,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	25,
@@ -375,26 +375,26 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	26,
 	'Jerry',
-	'Biddulph',
+	'BIDdulph',
 	168262
 );
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	27,
@@ -405,11 +405,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	28,
@@ -420,11 +420,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	29,
@@ -435,11 +435,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	30,
@@ -450,11 +450,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	31,
@@ -465,11 +465,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	32,
@@ -480,11 +480,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	33,
@@ -495,11 +495,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	34,
@@ -510,11 +510,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	35,
@@ -525,26 +525,26 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	36,
 	'Marje',
-	'Risbridger',
+	'RisbrIDger',
 	82631
 );
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	37,
@@ -555,11 +555,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	38,
@@ -570,11 +570,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	39,
@@ -585,11 +585,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	40,
@@ -600,11 +600,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	41,
@@ -615,11 +615,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	42,
@@ -630,11 +630,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	43,
@@ -645,11 +645,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	44,
@@ -660,11 +660,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	45,
@@ -675,11 +675,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	46,
@@ -690,11 +690,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	47,
@@ -705,11 +705,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	48,
@@ -720,11 +720,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	49,
@@ -735,11 +735,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	50,
@@ -750,11 +750,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	51,
@@ -765,11 +765,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	52,
@@ -780,11 +780,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	53,
@@ -795,26 +795,26 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	54,
-	'Davidson',
+	'DavIDson',
 	'Kynder',
 	152677
 );
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	55,
@@ -825,11 +825,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	56,
@@ -840,11 +840,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	57,
@@ -855,11 +855,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	58,
@@ -870,11 +870,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	59,
@@ -885,11 +885,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	60,
@@ -900,11 +900,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	61,
@@ -915,11 +915,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	62,
@@ -930,11 +930,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	63,
@@ -945,11 +945,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	64,
@@ -960,11 +960,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	65,
@@ -975,11 +975,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	66,
@@ -990,11 +990,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	67,
@@ -1005,11 +1005,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	68,
@@ -1020,11 +1020,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	69,
@@ -1035,11 +1035,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	70,
@@ -1050,11 +1050,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	71,
@@ -1065,11 +1065,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	72,
@@ -1080,11 +1080,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	73,
@@ -1095,11 +1095,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	74,
@@ -1110,11 +1110,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	75,
@@ -1125,11 +1125,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	76,
@@ -1140,11 +1140,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	77,
@@ -1155,11 +1155,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	78,
@@ -1170,11 +1170,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	79,
@@ -1185,11 +1185,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	80,
@@ -1200,11 +1200,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	81,
@@ -1215,11 +1215,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	82,
@@ -1230,11 +1230,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	83,
@@ -1245,11 +1245,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	84,
@@ -1260,11 +1260,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	85,
@@ -1275,11 +1275,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	86,
@@ -1290,11 +1290,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	87,
@@ -1305,11 +1305,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	88,
@@ -1320,11 +1320,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	89,
@@ -1335,11 +1335,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	90,
@@ -1350,11 +1350,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	91,
@@ -1365,11 +1365,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	92,
@@ -1380,11 +1380,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	93,
@@ -1395,11 +1395,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	94,
@@ -1410,11 +1410,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	95,
@@ -1425,11 +1425,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	96,
@@ -1440,11 +1440,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	97,
@@ -1455,11 +1455,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	98,
@@ -1470,11 +1470,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	99,
@@ -1485,11 +1485,11 @@ VALUES (
 
 INSERT
 	INTO
-	customer (
-		id,
-		first_name,
-		last_name,
-		salary
+	CUSTOMER (
+		ID,
+		FIRST_NAME,
+		LAST_NAME,
+		SALARY
 	)
 VALUES (
 	100,

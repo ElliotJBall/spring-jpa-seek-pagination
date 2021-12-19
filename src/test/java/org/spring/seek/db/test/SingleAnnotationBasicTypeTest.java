@@ -1,23 +1,17 @@
-package org.spring.seek.db.vendor.h2;
+package org.spring.seek.db.test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 import java.util.concurrent.atomic.AtomicLong;
-import org.junit.jupiter.api.extension.ExtendWith;
-import org.spring.seek.config.H2Config;
 import org.spring.seek.config.TestConfig;
 import org.spring.seek.domain.SeekRequest;
 import org.spring.seek.repository.SeekPaginationRepository;
 import org.spring.seek.sample.repository.CustomerRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.data.domain.Sort.Direction;
-import org.springframework.test.context.ActiveProfiles;
-import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.jdbc.Sql;
-import org.springframework.test.context.junit.jupiter.SpringExtension;
-import org.springframework.test.context.support.AnnotationConfigContextLoader;
 
 /**
  * Test implementation of the {@link SeekPaginationRepository} where the table under test makes use
@@ -25,12 +19,8 @@ import org.springframework.test.context.support.AnnotationConfigContextLoader;
  *
  * @author Elliot Ball
  */
-@ExtendWith(SpringExtension.class)
-@DataJpaTest
-@ActiveProfiles("h2")
-@ContextConfiguration(loader = AnnotationConfigContextLoader.class, classes = {TestConfig.class,
-    H2Config.class})
-@Sql(scripts = {"classpath:customer-sample-data.sql"})
+@SpringBootTest(classes = TestConfig.class)
+@Sql(scripts = {"classpath:truncate.sql", "classpath:customer-sample-data.sql"})
 public class SingleAnnotationBasicTypeTest {
 
   @Autowired
@@ -54,7 +44,6 @@ public class SingleAnnotationBasicTypeTest {
       seekResult = repository.findAll(seekResult.getNextPage(10));
     } while (seekResult.hasResults());
 
-    // We'll increment one past the full result set size
     assertThat(lastSeenCustomerId.longValue()).isEqualTo(100L);
   }
 
