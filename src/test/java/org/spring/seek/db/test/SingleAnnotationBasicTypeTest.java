@@ -35,9 +35,9 @@ public class SingleAnnotationBasicTypeTest {
 
     do {
       assertThat(seekResult).isNotNull();
-      assertThat(seekResult.getResult().size()).isEqualTo(10);
+      assertThat(seekResult.getContent().size()).isEqualTo(10);
 
-      seekResult.getResult().forEach(customer -> {
+      seekResult.getContent().forEach(customer -> {
         assertThat(customer.getId()).isEqualTo(lastSeenCustomerId.incrementAndGet());
       });
 
@@ -56,9 +56,9 @@ public class SingleAnnotationBasicTypeTest {
 
     do {
       assertThat(seekResult).isNotNull();
-      assertThat(seekResult.getResult().size()).isEqualTo(10);
+      assertThat(seekResult.getContent().size()).isEqualTo(10);
 
-      seekResult.getResult().forEach(customer -> {
+      seekResult.getContent().forEach(customer -> {
         assertThat(customer.getId()).isEqualTo(lastSeenCustomerId.getAndDecrement());
       });
 
@@ -76,10 +76,10 @@ public class SingleAnnotationBasicTypeTest {
     var seekResult = repository.findAll(seekRequest);
 
     assertThat(seekResult).isNotNull();
-    assertThat(seekResult.getResult().size()).isEqualTo(100);
+    assertThat(seekResult.getContent().size()).isEqualTo(100);
 
     seekResult = repository.findAll(seekResult.getNextPage(largeLimit));
     assertThat(seekResult).isNotNull();
-    assertThat(seekResult.getResult().size()).isEqualTo(0);
+    assertThat(seekResult.getContent().size()).isEqualTo(0);
   }
 }

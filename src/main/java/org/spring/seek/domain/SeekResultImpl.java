@@ -28,8 +28,13 @@ public class SeekResultImpl<T> implements SeekResult<T> {
   }
 
   @Override
-  public List<T> getResult() {
+  public List<T> getContent() {
     return result;
+  }
+
+  @Override
+  public long getTotalElements() {
+    return result.size();
   }
 
   @Override
